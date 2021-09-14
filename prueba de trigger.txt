@@ -1,0 +1,1 @@
+insert into alquiler values (4,1,1,'2021-09-10',null, null);

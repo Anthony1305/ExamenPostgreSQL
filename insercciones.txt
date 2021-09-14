@@ -1,0 +1,7 @@
+insert into pelicula values (1,  'avengers', 2010);
+insert into pelicula values (2,  'xmen', 2011);
+insert into pelicula values (3,  'spiderman', 2018);
+insert into cliente values (1,  '1131141151','Mario','Mendoza','2019-01-01' );
+insert into cliente values (2,  '1131141152','Carmen','Plua','2019-01-01' );
+insert into alquiler values (1,1,1,'2021-09-14',null, null);
+insert into alquiler values (2,2,1,'2021-09-10',null, null);
